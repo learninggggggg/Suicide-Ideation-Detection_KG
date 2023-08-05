@@ -47,7 +47,7 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 27. Vinícios Faustino de Carvalho, Bianca Giacon, Carlos Nascimento, Bruno Magalhães Nogueira.**Machine Learning for Suicidal Ideation Identification on Twitter for the Portuguese Language** BRACIS 2020 CCF none: 536-550[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-61377-8_37)
 28. Jiao Li, Bing Li, Yao Meng, Siqi Yang, Huafu Chen, Wei Liao.**Differences of aberrant dynamic functional connectivity between depressed patients with and without suicidal ideation** ISICDM 2020 CCF none: 145-150[[Paper]](https://dl.acm.org/doi/abs/10.1145/3451421.3451453)
 29. Elise Glaser, Alexander Morain, Jonathan Gemmell, Daniela Raicu.**Comparing automatically extracted topics from online suicidal ideation and the responses they invoke** SAC 2020CCF none: 1818-1825[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341105.3373902)
-30. Prabha Sundaravadivel, Paola Salvatore, Premananda Indic**M-SID: An IoT-based Edge-intelligent Framework for Suicidal Ideation Detection** WF-IoT 2020 CCF none[[Paper]](https://ieeexplore.ieee.org/abstract/document/9221279)
+30. Prabha Sundaravadivel, Paola Salvatore, Premananda Indic**M-SID: An IoT-based Edge-intelligent Framework for Suicidal Ideation Detection** WF-IoT 2020 CCF none: 1-6[[Paper]](https://ieeexplore.ieee.org/abstract/document/9221279)
 ### Suicide Ideation Detection-Based Knowledge Graph
 1. Lei Cao , Huijun Zhang, and Ling Feng.**Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media** IEEE Xplore 2020.[[Paper]](https://ieeexplore.ieee.org/document/9308975)
 ### Suicide Ideation Detection-Based Transformer
