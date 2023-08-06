@@ -4,7 +4,6 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 * Survey  
 * Dataset
 * Method
-* ENMLP-2022 [[Link]](https://aclanthology.org/events/emnlp-2022/)
 * Clinical Area
 ## Survey  
 1. Shaoxiong Ji , Shirui Pan , Xue Li, Erik Cambria ,Guodong Long , and Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** IEEE Xplore 2023.[[Paper]](https://arxiv.org/abs/1910.12611)
@@ -73,16 +72,13 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 50. Benjamin Lê Cook, Ana M. Progovac, Pei Chen, Brian Mullin, Sherry Hou, Enrique Baca-García:**Novel Use of Natural Language Processing (NLP) to Predict Suicidal Ideation and Psychiatric Symptoms in a Text-Based Mental Health Intervention in Madrid.** Comput. Math. Methods Medicine 2016 CCF none: 8708434:1-8708434:8 (2016)[[Paper]](https://www.hindawi.com/journals/cmmm/2016/8708434/)
 51. Munmun De Choudhury, Emre Kiciman, Mark Dredze, Glen Coppersmith, Mrinal Kumar:**Discovering Shifts to Suicidal Ideation from Mental Health Content in Social Media.** CHI 2016 CCF A: 2098-2110[[Paper]](https://dl.acm.org/doi/abs/10.1145/2858036.2858207)
 52. Ahsan Khandoker, Veena Luthra, Yousef Abouallaban, Mohammad Hasan Imam, Nayeefa Chowdhury, Herbert F. Jelinek:**Reduced QT Variability and increased QT/RR slope in ECG signals of Depressed Patients with Suicidal Ideation.** CinC 2016 CCF none.[[Paper]](https://ieeexplore.ieee.org/abstract/document/7868762)
+53. Shaoxiong Ji:**Towards Intention Understanding in Suicidal Risk Assessment with Natural Language Processing.** EMNLP 2022.[[Paper]](https://aclanthology.org/2022.findings-emnlp.297.pdf)
 ### Suicide Ideation Detection-Based Knowledge Graph
 1. Lei Cao , Huijun Zhang, and Ling Feng:**Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media.** IEEE Trans. Multim. 24 CCF B: 87-102 (2022)[[Paper]](https://ieeexplore.ieee.org/document/9308975)
 2. Lei Cao, Huijun Zhang, Ling Feng:**Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media.** CoRR abs/2012.09123 CCF none(2020)[[Paper]](https://arxiv.org/abs/2012.09123)
 ### Suicide Ideation Detection-Based Transformer
 1. Ramit Sawhney, Harshit Joshi, Saumya Gandhi, Rajiv Ratn Shah:**A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media.** EMNLP 2020.[[Paper]](https://aclanthology.org/2020.emnlp-main.619)
-## ENMLP-2022
-### Method
-1. Shaoxiong Ji:**Towards Intention Understanding in Suicidal Risk Assessment with Natural Language Processing.** EMNLP 2022.[[Paper]](https://aclanthology.org/2022.findings-emnlp.297.pdf)
-### Clinical Area
-1. Bhanu Pratap Singh Rawat1, Hong Yu:**Parameter Efficient Transfer Learning for Suicide Attempt and Ideation Detection.** EMNLP 2022.[[Paper]](https://aclanthology.org/2022.louhi-1.13.pdf)
 ## Clinical Area
 1. Andrea C. Fernandes, Rina Dutta, Sumithra Velupillai, Jyoti Sanyal, Robert Stewart & David Chandran:**Identifying Suicide Ideation and Suicidal Attempts in a Psychiatric Clinical Research Database using Natural Language Processing.** Scientific Reports 2018.[[Paper]](https://www.nature.com/articles/s41598-018-25773-2)
 2. Marika M. Cusick, Prakash Adekkanattu, Thomas R. Campion Jr., Evan Sholle, Annie C. Myers, George Alexopoulos, Jyotishman Pathak:**Weak Supervision to Classify Unstructured Clinical Text for Current Suicidal Ideation.** AMIA 2020 CCF C[[Paper]](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3417010-1.4606159/3413694-1.4606156?qr=1)
+3. Bhanu Pratap Singh Rawat1, Hong Yu:**Parameter Efficient Transfer Learning for Suicide Attempt and Ideation Detection.** EMNLP 2022.[[Paper]](https://aclanthology.org/2022.louhi-1.13.pdf)
