@@ -1,40 +1,104 @@
 # Programs and resources for suicide ideation detection
-Here, we focus on collecting papers related to the detection of suicidal ideation, including .
-# Table of Contents
-* Survey  
-* Dataset
-* Method
+
+Here, we focus on collecting papers related to the detection of suicidal ideation, including.
+
+
+# Table of Contents 
+
 * Clinical Area
+
+  <!-- * [Task](#Task) -->
+  * [Survey](#survey)
+  * [Dataset](#dataset)  
+  * [Knowledge Representation in Ancient Books](#Knowledge_Representation_in_Ancient_Books)
+
+
+
 ## Survey  
-1. Shaoxiong Ji , Shirui Pan , Xue Li, Erik Cambria ,Guodong Long , and Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** IEEE Xplore 2023.[[Paper]](https://arxiv.org/abs/1910.12611)
-2. Asma Abdulsalam, Areej Alhothali:**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods.** CoRR abs/2201.10515 CCF none
- (2022)[[Paper]](https://doi.org/10.48550/arXiv.2201.10515)
-3. Akshma Chadha, Baijnath Kaushik:**A Survey on Prediction of Suicidal Ideation Using Machine and Ensemble Learning.** Comput. J. 64(11)CCF B: 1617-1632 (2021)[[Paper]](https://academic.oup.com/comjnl/article-abstract/64/11/1617/5612727)
-4. Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** IEEE Trans. Comput. Soc. Syst. 8(1)CCF C: 214-226 (2021)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9199553)
-5. Muskaan Beriwal, Sarvesh Agrawal:**Techniques for Suicidal Ideation Prediction: a Qualitative Systematic Review.** INISTA 2021CCF none: 1-8[[Paper]](https://ieeexplore.ieee.org/abstract/document/9548444)
+<!-- 2019 -->
+7. Paul Dodemaide, Lynette Joubert, Mark Merolli, Nicole Hill. **Exploring the Therapeutic and Nontherapeutic Affordances of Social Media Use by Young Adults with Lived Experience of Self-Harm or Suicidal Ideation: A Scoping Review.**Cyberpsychology Behav. Soc. Netw. 2019. [[Paper]](https://www.liebertpub.com/doi/abs/10.1089/cyber.2018.0678)
+
+
 6. Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** CoRR abs/1910.12611 CCF none(2019)[[Paper]](https://arxiv.org/abs/1910.12611)
-7. Paul Dodemaide, Lynette Joubert, Mark Merolli, Nicole Hill:**Exploring the Therapeutic and Nontherapeutic Affordances of Social Media Use by Young Adults with Lived Experience of Self-Harm or Suicidal Ideation: A Scoping Review.** Cyberpsychology Behav. Soc. Netw. 22(10)CCF none: 622-633 (2019)[[Paper]](https://www.liebertpub.com/doi/abs/10.1089/cyber.2018.0678)
+
+
+
+3. Akshma Chadha, Baijnath Kaushik:**A Survey on Prediction of Suicidal Ideation Using Machine and Ensemble Learning.** Comput. J. 64(11)CCF B: 1617-1632 (2021)[[Paper]](https://academic.oup.com/comjnl/article-abstract/64/11/1617/5612727)
+
+
+4. Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** IEEE Trans. Comput. Soc. Syst. 8(1)CCF C: 214-226 (2021)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9199553)
+
+
+5. Muskaan Beriwal, Sarvesh Agrawal. **Techniques for Suicidal Ideation Prediction: a Qualitative Systematic Review.** INISTA 2021CCF none: 1-8[[Paper]](https://ieeexplore.ieee.org/abstract/document/9548444)
+
+
+1. Shaoxiong Ji , Shirui Pan , Xue Li, Erik Cambria ,Guodong Long , and Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** IEEE Xplore 2023.[[Paper]](https://arxiv.org/abs/1910.12611)
+
+
+2. Asma Abdulsalam, Areej Alhothali:**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods.** CoRR abs/2201.10515 CCF none(2022)[[Paper]](https://doi.org/10.48550/arXiv.2201.10515)
+
+
+
 ## Dataset
 1. Bhanu Pratap Singh Rawat,Samuel Kovaly, Wilfred R. Pigeon,and Hong Yu:**ScAN: Suicide Attempt and Ideation Events Dataset.** NAACL 2022.[[Paper]](https://aclanthology.org/2022.naacl-main.75)  [[Code]](https://github.com/bsinghpratap/scan)
+
+
 2. Mariam Hassib,Nancy Hossam,Jolie Sameh,Marwan Torki:**AraDepSu: Detecting Depression and Suicidal Ideation in Arabic Tweets Using Transformers.** WANLP 2022.[[Paper]](https://aclanthology.org/2022.wanlp-1.28)
+
+
 3. Kaustubh Agarwal, Bhavya Dhingra:**Deep Learning Based Approach For Detecting Suicidal Ideation in Hindi-English Code-Mixed Text: Baseline and Corpu.** ICON 2021 CCF none: 100-105[[Paper]](https://aclanthology.org/2021.icon-main.14/)
+
+
 4. Oumaima Benlaaraj, Ilyas El Jaafari, Ayoub Ellahyani, Idriss Boutaayamou:**Prediction of suicidal ideation in a new Arabic annotated dataset.** WINCOM 2022 CCF none: 1-5[[Paper]](https://ieeexplore.ieee.org/abstract/document/9966481)
+
+
+
 ## Method
 1. Bhavini Priyamvada, Shruti Singhal, Anand Nayyar, Rachna Jain, Priya Goel, Mehar Rani, Muskan Srivastava:**Stacked CNN - LSTM approach for prediction of suicidal ideation on social media.** Multim. Tools Appl. 82(18): 27883-27904 (2023)[[Paper]](https://doi.org/10.1007/s11042-023-14431-z)
-2. Zhong-Ling Wang, Po-Hsien Huang, Wen-Yau Hsu, Hen-Hsen Huang:**Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations.** EACL 2023.[[Paper]](https://aclanthology.org/2023.eacl-main.105)
+
+
+2. Zhong-Ling Wang, Po-Hsien Huang, Wen-Yau Hsu, Hen-Hsen Huang. **Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations.** EACL 2023. [[Paper]](https://aclanthology.org/2023.eacl-main.105)
+
+
 3. Efthyvoulos Drousiotis, Dan W. Joyce, Robert C. Dempsey, Alina Haines, Paul G. Spirakis, Lei Shi & Simon Maskell:**Probabilistic Decision Trees for Predicting 12-Month University Students Likely to Experience Suicidal Ideation.** AIAI (1) 2023: 475-487[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-34111-3_40)
+
+
 4. Wesllei Felipe Heckler a, Juliano Varella de Carvalho b, Jorge Luis Victória Barbosa:**Machine learning for suicidal ideation identification: A systematic literature review.** Comput. Hum. Behav. 128 CCF none: 107095 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180)
+
+
 5. Mohamed Ali Ben Hassine, Safa Abdellatif, Sadok Ben Yahia:**A novel imbalanced data classification approach for suicidal ideation detection on social media.** Computing 104(4) CCF none: 741-765 (2022)[[Paper]](https://link.springer.com/article/10.1007/s00607-021-00984-0)
+
+
 6. Atika Mbarek, Salma Jamoussi, Abdelmajid Ben Hamadou:**An across online social networks profile building approach: Application to suicidal ideation detection.** Future Gener. Comput. Syst. 133 CCF C: 171-183 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22000929)
+
+
 7. M. L. Tlachac, Ricardo Flores, Miranda Reisch, Rimsha Kayastha, Nina Taurich, Veronica Melican, Connor Bruneau, Hunter Caouette, Joshua Lovering, Ermal Toto, Elke A. Rundensteiner:**StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic.** Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6(2)CCF none: 76:1-76:32 (2022)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3534604)
+
+
 8. Vlada Rozova, Katrina Witt, Jo Robinson, Yan Li, Karin Verspoor:**Detection of self-harm and suicidal ideation in emergency department triage notes.** J. Am. Medical Informatics Assoc. 29(3)CCF B: 472-480 (2022)[[Paper]](https://academic.oup.com/jamia/article-abstract/29/3/472/6460149#no-access-message)
+
+
 9. Shini Renjith, Annie Abraham, Surya B. Jyothi, Lekshmi Chandran, Jincy Thomson:**An ensemble deep learning technique for detecting suicidal ideation from posts in social media platforms.** J. King Saud Univ. Comput. Inf. Sci. 34(10 Part B) CCF none: 9564-9575 (2022)[[Paper]](https://www.sciencedirect.com/science/article/pii/S1319157821003244)
+
+
 10. Shaoxiong Ji, Xue Li, Zi Huang, Erik Cambria:**Suicidal ideation and mental disorder detection with attentive relation networks.** Neural Comput. Appl. 34(13) CCF C: 10309-10319 (2022)[[Paper]](https://link.springer.com/article/10.1007/s00521-021-06208-y)
+
+
 11. Akshma Chadha, Baijnath Kaushik:**A Hybrid Deep Learning Model Using Grid Search and Cross-Validation for Effective Classification and Prediction of Suicidal Ideation from Social Network Data.** New Gener. Comput. 40(4)CCF none: 889-914 (2022)[[Paper]](https://link.springer.com/article/10.1007/s00354-022-00191-1)
+
+
 12. Marieke M. van Buchem, Hamza El Mosor, Jean Coquet, Tina Hernandez-Boussard:**Using Reddit to detect suicidal ideation from patient emails.**  AMIA 2022 CCF C.[[Paper]](https://knowledge.amia.org/76677-amia-1.4637602/f007-1.4641746/f007-1.4641747/172-1.4642112/1173-1.4642109?qr=1)
+
+
 13. Kevin J. Krause, John Shelley, Robert Becker, Colin Walsh:**Exploring Risk Factors in Suicidal Ideation and Attempt Concept Cooccurrence Networks.** AMIA 2022 CCF C [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148313/)
+
+
 14. Woosik Shin, Hee-Woong Kim:**Coping with Self-harm in Elderly People: The Impact of Internet Use on Suicidal Ideation.** ICIS 2022 CCF none[[Paper]](https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/4/)
+
+
 15. María del Carmen García-Galindo, Ángel Hernández-Castañeda, René Arnulfo García-Hernández, Yulia Ledeneva:**Automatic Identification of Suicidal Ideation in Texts Using Cascade Classifiers.** MICAI (2) 2022 CCF none: 114-126[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19496-2_9)
+
+
 16. Michal Monselise, Christopher C. Yang:**I'm always in so much pain and no one will understand" - Detecting Patterns in Suicidal Ideation on Reddit.** WWW (Companion Volume) 2022[[Paper]](https://dl.acm.org/doi/abs/10.1145/3487553.3524700)
 17. Shini Renjith, Annie Abraham, Surya B. Jyothi, Lekshmi Chandran, Jincy Thomson:**An ensemble deep learning technique for detecting suicidal ideation from posts in social media platforms.** CoRR abs/2112.10609 CCF none (2021)[[Paper]](https://www.sciencedirect.com/science/article/pii/S1319157821003244)
 18. Anas Belouali, Samir Gupta, Vaibhav Sourirajan, Jiawei Yu, Nathaniel Allen, Adil Alaoui, Mary Ann Dutton, Matthew J. Reinhard:**Acoustic and language analysis of speech for suicidal ideation among US veterans.** BioData Min. 14(1)CCF none: 11 (2021)[[Paper]](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-021-00245-y)
@@ -76,9 +140,22 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 ### Suicide Ideation Detection-Based Knowledge Graph
 1. Lei Cao , Huijun Zhang, and Ling Feng:**Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media.** IEEE Trans. Multim. 24 CCF B: 87-102 (2022)[[Paper]](https://ieeexplore.ieee.org/document/9308975)
 2. Lei Cao, Huijun Zhang, Ling Feng:**Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media.** CoRR abs/2012.09123 CCF none(2020)[[Paper]](https://arxiv.org/abs/2012.09123)
-### Suicide Ideation Detection-Based Transformer
+
+
+
+## Suicide Ideation Detection-Based Transformer
 1. Ramit Sawhney, Harshit Joshi, Saumya Gandhi, Rajiv Ratn Shah:**A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media.** EMNLP 2020.[[Paper]](https://aclanthology.org/2020.emnlp-main.619)
+
+
+
 ## Clinical Area
 1. Andrea C. Fernandes, Rina Dutta, Sumithra Velupillai, Jyoti Sanyal, Robert Stewart & David Chandran:**Identifying Suicide Ideation and Suicidal Attempts in a Psychiatric Clinical Research Database using Natural Language Processing.** Scientific Reports 2018.[[Paper]](https://www.nature.com/articles/s41598-018-25773-2)
+
+
 2. Marika M. Cusick, Prakash Adekkanattu, Thomas R. Campion Jr., Evan Sholle, Annie C. Myers, George Alexopoulos, Jyotishman Pathak:**Weak Supervision to Classify Unstructured Clinical Text for Current Suicidal Ideation.** AMIA 2020 CCF C[[Paper]](https://knowledge.amia.org/72332-amia-1.4602255/t004-1.4605866/t004-1.4605867/3417010-1.4606159/3413694-1.4606156?qr=1)
+
+
 3. Bhanu Pratap Singh Rawat1, Hong Yu:**Parameter Efficient Transfer Learning for Suicide Attempt and Ideation Detection.** EMNLP 2022.[[Paper]](https://aclanthology.org/2022.louhi-1.13.pdf)
+
+
+
