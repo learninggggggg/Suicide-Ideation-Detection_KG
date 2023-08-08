@@ -38,6 +38,9 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 2. Asma Abdulsalam, Areej Alhothali:**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods.** CoRR abs/2201.10515 CCF none(2022)[[Paper]](https://doi.org/10.48550/arXiv.2201.10515)
 
 
+8.　Wesllei Felipe Heckler a, Juliano Varella de Carvalho b, Jorge Luis Victória Barbosa:**Machine learning for suicidal ideation identification: A systematic literature review.** Comput. Hum. Behav. 128 CCF none: 107095 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180)
+
+
 
 ## Dataset
 1. Bhanu Pratap Singh Rawat,Samuel Kovaly, Wilfred R. Pigeon,and Hong Yu:**ScAN: Suicide Attempt and Ideation Events Dataset.** NAACL 2022.[[Paper]](https://aclanthology.org/2022.naacl-main.75)  [[Code]](https://github.com/bsinghpratap/scan)
@@ -63,7 +66,7 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 3. Efthyvoulos Drousiotis, Dan W. Joyce, Robert C. Dempsey, Alina Haines, Paul G. Spirakis, Lei Shi & Simon Maskell:**Probabilistic Decision Trees for Predicting 12-Month University Students Likely to Experience Suicidal Ideation.** AIAI (1) 2023: 475-487[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-34111-3_40)
 
 
-4. Wesllei Felipe Heckler a, Juliano Varella de Carvalho b, Jorge Luis Victória Barbosa:**Machine learning for suicidal ideation identification: A systematic literature review.** Comput. Hum. Behav. 128 CCF none: 107095 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180)
+4. 
 
 
 5. Mohamed Ali Ben Hassine, Safa Abdellatif, Sadok Ben Yahia:**A novel imbalanced data classification approach for suicidal ideation detection on social media.** Computing 104(4) CCF none: 741-765 (2022)[[Paper]](https://link.springer.com/article/10.1007/s00607-021-00984-0)
