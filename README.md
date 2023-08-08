@@ -55,6 +55,8 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 4. Oumaima Benlaaraj, Ilyas El Jaafari, Ayoub Ellahyani, Idriss Boutaayamou:**Prediction of suicidal ideation in a new Arabic annotated dataset.** WINCOM 2022 CCF none: 1-5[[Paper]](https://ieeexplore.ieee.org/abstract/document/9966481)
 
 
+5. M. L. Tlachac, Ricardo Flores, Miranda Reisch, Rimsha Kayastha, Nina Taurich, Veronica Melican, Connor Bruneau, Hunter Caouette, Joshua Lovering, Ermal Toto, Elke A. Rundensteiner:**StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic.** Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6(2)CCF none: 76:1-76:32 (2022)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3534604)
+
 
 ## Method
 1. Bhavini Priyamvada, Shruti Singhal, Anand Nayyar, Rachna Jain, Priya Goel, Mehar Rani, Muskan Srivastava:**Stacked CNN - LSTM approach for prediction of suicidal ideation on social media.** Multim. Tools Appl. 82(18): 27883-27904 (2023)[[Paper]](https://doi.org/10.1007/s11042-023-14431-z)
@@ -75,7 +77,7 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 6. Atika Mbarek, Salma Jamoussi, Abdelmajid Ben Hamadou:**An across online social networks profile building approach: Application to suicidal ideation detection.** Future Gener. Comput. Syst. 133 CCF C: 171-183 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22000929)
 
 
-7. M. L. Tlachac, Ricardo Flores, Miranda Reisch, Rimsha Kayastha, Nina Taurich, Veronica Melican, Connor Bruneau, Hunter Caouette, Joshua Lovering, Ermal Toto, Elke A. Rundensteiner:**StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic.** Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6(2)CCF none: 76:1-76:32 (2022)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3534604)
+7. 
 
 
 8. Vlada Rozova, Katrina Witt, Jo Robinson, Yan Li, Karin Verspoor:**Detection of self-harm and suicidal ideation in emergency department triage notes.** J. Am. Medical Informatics Assoc. 29(3)CCF B: 472-480 (2022)[[Paper]](https://academic.oup.com/jamia/article-abstract/29/3/472/6460149#no-access-message)
