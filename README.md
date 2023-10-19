@@ -59,7 +59,8 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 
 9. Prabhakar Marry; Shriya Atluri; B.S. Anmol; K. Saikumar Reddy; V. Sudheer Kumar Reddy:**Suicidal Ideation Detection: Application of Machine Learning Techniques on Twitter Data.**ICECAA (2023), [[Paper]](https://ieeexplore.ieee.org/document/10212178)
         
-        
+
+10.Xinyuan Xu：**Detecting Suicide Ideation in the Online Environment: A Survey of Methods and Challenges**in IEEE Transactions on Computational Social Systems（2022），[[Paper]](https://ieeexplore.ieee.org/document/9568643)
 ## Dataset
 1. Bhanu Pratap Singh Rawat,Samuel Kovaly, Wilfred R. Pigeon,and Hong Yu:**ScAN: Suicide Attempt and Ideation Events Dataset.** NAACL 2022.[[Paper]](https://aclanthology.org/2022.naacl-main.75)  [[Code]](https://github.com/bsinghpratap/scan)
 
