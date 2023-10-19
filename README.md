@@ -17,6 +17,14 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 ## Survey  
 <!-- 2019 -->
 7. Paul Dodemaide, Lynette Joubert, Mark Merolli, Nicole Hill. **Exploring the Therapeutic and Nontherapeutic Affordances of Social Media Use by Young Adults with Lived Experience of Self-Harm or Suicidal Ideation: A Scoping Review.**Cyberpsychology Behav. Soc. Netw. 2019. [[Paper]](https://www.liebertpub.com/doi/abs/10.1089/cyber.2018.0678)
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 6. Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang:**Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.** CoRR abs/1910.12611 CCF none(2019)[[Paper]](https://arxiv.org/abs/1910.12611)
@@ -36,12 +44,22 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 
 
 2. Asma Abdulsalam, Areej Alhothali:**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods.** CoRR abs/2201.10515 CCF none(2022)[[Paper]](https://doi.org/10.48550/arXiv.2201.10515)
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 8.　Wesllei Felipe Heckler a, Juliano Varella de Carvalho b, Jorge Luis Victória Barbosa:**Machine learning for suicidal ideation identification: A systematic literature review.** Comput. Hum. Behav. 128 CCF none: 107095 (2022)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180)
 
 
-
+9. Prabhakar Marry; Shriya Atluri; B.S. Anmol; K. Saikumar Reddy; V. Sudheer Kumar Reddy:**Suicidal Ideation Detection: Application of Machine Learning Techniques on Twitter Data.**ICECAA (2023), [[Paper]](https://ieeexplore.ieee.org/document/10212178)
+        
+        
 ## Dataset
 1. Bhanu Pratap Singh Rawat,Samuel Kovaly, Wilfred R. Pigeon,and Hong Yu:**ScAN: Suicide Attempt and Ideation Events Dataset.** NAACL 2022.[[Paper]](https://aclanthology.org/2022.naacl-main.75)  [[Code]](https://github.com/bsinghpratap/scan)
 
@@ -56,10 +74,26 @@ Here, we focus on collecting papers related to the detection of suicidal ideatio
 
 
 5. M. L. Tlachac, Ricardo Flores, Miranda Reisch, Rimsha Kayastha, Nina Taurich, Veronica Melican, Connor Bruneau, Hunter Caouette, Joshua Lovering, Ermal Toto, Elke A. Rundensteiner:**StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic.** Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6(2)CCF none: 76:1-76:32 (2022)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3534604)
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 ## Method
 1. Bhavini Priyamvada, Shruti Singhal, Anand Nayyar, Rachna Jain, Priya Goel, Mehar Rani, Muskan Srivastava:**Stacked CNN - LSTM approach for prediction of suicidal ideation on social media.** Multim. Tools Appl. 82(18): 27883-27904 (2023)[[Paper]](https://doi.org/10.1007/s11042-023-14431-z)
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 2. Zhong-Ling Wang, Po-Hsien Huang, Wen-Yau Hsu, Hen-Hsen Huang. **Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations.** EACL 2023. [[Paper]](https://aclanthology.org/2023.eacl-main.105)
